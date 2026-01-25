@@ -31,7 +31,7 @@ public class SimpleSqsPoller {
 
     private void pollQueue() {
         sqs.receiveMessage(ReceiveMessageRequest.builder()
-                        .queueUrl("https://sqs.eu-central-1.amazonaws.com/.../my-queue")
+                        .queueUrl("http://localhost:4566/000000000000/my-queue")
                         .maxNumberOfMessages(10)
                         .waitTimeSeconds(10)
                         .build())
