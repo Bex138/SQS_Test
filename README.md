@@ -4,6 +4,8 @@ liens utiles:
 
 [install localstack](https://useme-alehosaini.medium.com/installing-localstack-to-simulate-aws-using-docker-desktop-for-windows-dc5b5c71823b)
 
+[commands aws with local stack](https://lobster1234.github.io/2017/04/05/working-with-localstack-command-line/)
+
 https://mikovilla.medium.com/step-by-step-guide-on-how-to-setup-localstack-s3-in-a-windows-machine-a0303b5eb8ff
 
 https://www.perplexity.ai/search/how-to-use-sqsasyncclient-IZAIP9KvTyqlE67_c31.GA#5
